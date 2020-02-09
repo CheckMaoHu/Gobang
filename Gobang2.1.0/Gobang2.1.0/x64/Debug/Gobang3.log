@@ -1,0 +1,2 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2017\Professional\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(391,5): warning MSB8028: 中间目录(x64\Debug\)包含从另一个项目(Gobang2.1.0.vcxproj)共享的文件。   这会导致错误的清除和重新生成行为。
+  Gobang3.vcxproj -> C:\Users\10519\Desktop\Gobang2.3.0\Gobang2.2.0\Gobang2.1.0\Gobang2.1.0\debug\Gobang3.exe
